@@ -1,8 +1,8 @@
 # Gobble Run — The Great Thanksgiving Escape
 
-[![make.fun competition](https://img.shields.io/badge/make.fun-turkey--run--game--01-orange)](https://make.fun/bounty/turkey-run-game-01)
-[![make.fun rank](https://img.shields.io/badge/rank-awaiting%20judging-blue)](https://make.fun/bounty/turkey-run-game-01)
-[![make.fun reward](https://img.shields.io/badge/reward-%24250%20pool-green)](https://make.fun/bounty/turkey-run-game-01)
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/cunong05/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/cunong05/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 A complete, original turkey escape game for the [make.fun](https://make.fun/bounty/turkey-run-game-01)
 bounty **turkey-run-game-01**. It runs offline in a desktop browser from
