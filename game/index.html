@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gobble Run — The Great Thanksgiving Escape</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #2b1a12;
+    height: 100%;
+    overflow: hidden;
+    font-family: "Trebuchet MS", "Segoe UI", Verdana, sans-serif;
+  }
+  #stage {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(circle at 50% 30%, #4a2c1a 0%, #2b1a12 70%);
+  }
+  canvas {
+    width: min(100vw, calc(100vh * 16 / 9));
+    height: min(100vh, calc(100vw * 9 / 16));
+    display: block;
+    border-radius: 6px;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    touch-action: none;
+  }
+</style>
+</head>
+<body>
+<div id="stage">
+  <canvas id="gameCanvas" width="1280" height="720"></canvas>
+</div>
+<script src="src/config.js"></script>
+<script src="src/random.js"></script>
+<script src="src/audio.js"></script>
+<script src="src/input.js"></script>
+<script src="src/turkey.js"></script>
+<script src="src/farmer.js"></script>
+<script src="src/hazards.js"></script>
+<script src="src/stages.js"></script>
+<script src="src/render.js"></script>
+<script src="src/game.js"></script>
+<script src="src/shots.js"></script>
+</body>
+</html>
